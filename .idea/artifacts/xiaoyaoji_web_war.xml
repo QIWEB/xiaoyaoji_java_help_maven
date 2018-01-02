@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiaoyaoji-web:war">
+    <output-path>$PROJECT_DIR$/xiaoyaoji-web/target</output-path>
+    <root id="archive" name="xiaoyaoji-2.1.5.war">
+      <element id="artifact" artifact-name="xiaoyaoji-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xiaoyaoji-biz" />
+        <module name="xiaoyaoji-login-plugin" />
+        <module name="xiaoyaoji-pdf" />
+        <module name="xiaoyaoji-plugins" />
+        <module name="xiaoyaoji-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xiaoyaoji" target="1.7" />
+      <module name="xiaoyaoji-biz" target="1.7" />
+      <module name="xiaoyaoji-login-plugin" target="1.7" />
+      <module name="xiaoyaoji-pdf" target="1.7" />
+      <module name="xiaoyaoji-plugins" target="1.7" />
+      <module name="xiaoyaoji-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
