@@ -4,7 +4,7 @@
 
 
 
-![LOGO](http://www.xiaoyaoji.cn/assets/img/logo/full.png)
+![LOGO](http://bpic.588ku.com/element_origin_min_pic/17/01/04/76a5587e1c514c0a16bde9aad61782ab.jpg)
 # 小幺鸡文档管理工具，支持富文本、markdown、http、websocket 及其在线测试
 ## [在线演示地址demo](http://www.xiaoyaoji.cn/project/demo)
 
