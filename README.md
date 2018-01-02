@@ -1,3 +1,9 @@
+本版本修改了之前的富文本编辑器，可以上传图片
+此项目代码来自开源项目https://github.com/zhoujingjie/xiaoyaoji/releases)
+改造版本
+
+
+
 ![LOGO](http://www.xiaoyaoji.cn/assets/img/logo/full.png)
 # 小幺鸡文档管理工具，支持富文本、markdown、http、websocket 及其在线测试
 ## [在线演示地址demo](http://www.xiaoyaoji.cn/project/demo)
@@ -19,7 +25,7 @@
 
 
 ## bug
-如果大家发现了bug，可以在[Issues](https://github.com/zhoujingjie/xiaoyaoji/issues)里面提交，然后也可以直接修改bug然后提交代码
+如果大家发现了bug，可以在[Issues](https://github.com/QIWEB/xiaoyaoji_java_help_maven)里面提交，然后也可以直接修改bug然后提交代码
 提交bug时请尽量多提供一些信息，如截图
 
 
@@ -51,6 +57,6 @@
 
 
 ## 如果觉得还不错，请作者喝杯咖啡吧 ☺
-![微信](http://0d077ef9e74d8.cdn.sohucs.com/pV4oizD_png)
-![支付宝](http://0d077ef9e74d8.cdn.sohucs.com/pV4ojyC_png)
+![微信]&QQ: 908701702
+![支付宝]zqijava@163.com
 
